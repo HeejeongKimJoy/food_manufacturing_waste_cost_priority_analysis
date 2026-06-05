@@ -104,13 +104,13 @@ Checks included:
 
 ### 2. Product Analysis
 
-Questions investigated:
+**Questions investigated:**
 
 - Which products generate the highest waste cost?
 - Which products have the highest waste cost per batch?
 - How concentrated is waste cost across products?
 
-Result:
+**Result:**
 
 The Top 5 products accounted for **38.15% of total waste cost**.
 
@@ -118,12 +118,12 @@ The Top 5 products accounted for **38.15% of total waste cost**.
 
 ### 3. Production Line Analysis
 
-Questions investigated:
+**Questions investigated:**
 
 - Which production line generates the most waste?
 - Do waste rates vary significantly between lines?
 
-Result:
+**Result:**
 
 Waste cost rates remained relatively consistent across production lines.
 
@@ -131,12 +131,12 @@ Waste cost rates remained relatively consistent across production lines.
 
 ### 4. Downtime Impact Analysis
 
-Questions investigated:
+**Questions investigated:**
 
 - Do downtime batches generate significantly more waste?
 - Does downtime severity increase waste exposure?
 
-Result:
+**Result:**
 
 No strong relationship was identified between downtime status and higher waste cost rate.
 
@@ -144,12 +144,12 @@ No strong relationship was identified between downtime status and higher waste c
 
 ### 5. Downtime Reason Analysis
 
-Questions investigated:
+**Questions investigated:**
 
 - Which downtime reasons occur most frequently?
 - Which downtime reasons generate the highest waste exposure?
 
-Result:
+**Result:**
 
 Machine Jam generated the highest downtime related waste exposure.
 
