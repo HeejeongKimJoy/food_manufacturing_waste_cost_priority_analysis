@@ -10,7 +10,9 @@ This project investigates material waste cost in a food manufacturing operation 
 
 Annual waste cost represented **8.27% of total production value**, so the goal was to identify where the business should focus waste reduction efforts.
 
-The analysis tested whether waste cost was mainly driven by product, production line, downtime, or downtime reason. Most factors did not show a strong waste rate difference. Instead, the strongest business opportunity came from **high volume products** and **frequent Machine Jam events**.
+The analysis tested whether waste cost was mainly driven by product, production line, downtime, or downtime reason. 
+
+Most factors did not show a strong waste rate difference. Instead, the strongest business opportunity came from **high volume products** and **frequent Machine Jam events**.
 
 Key findings:
 
@@ -31,27 +33,9 @@ Recommended action:
 ## Investigation Journey
 
 <p align="center">
-  <img src="04_screenshots/04_analysis_framework.png" width="1000">
-</p>
+<img src="food_manufacturing_waste_cost_priority_analysis/04_screenshots/04_analysis_framework.png" width="1000">
 
 ---
-
-## Dashboard Preview
-
-### Waste Cost Priority Dashboard
-
-<p align="center">
-  <img src="04_screenshots/01_dashboard_page1.png" width="1000">
-</p>
-
-### Supporting Operational Context Dashboard
-
-<p align="center">
-  <img src="04_screenshots/02_dashboard_page2.png" width="1000">
-</p>
-
----
-
 ## Business Problem
 
 Annual waste cost accounted for approximately **8.27% of total production value**.
@@ -66,11 +50,27 @@ Management wanted to understand:
 The objective was not simply to report historical performance, but to identify practical actions that could reduce waste cost.
 
 ---
+## Dashboard Preview
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <strong>Waste Cost Priority Dashboard</strong>
+      <br><br>
+      <img src="food_manufacturing_waste_cost_priority_analysis/04_screenshots/01_dashboard_page1.png" width="100%">
+    </td>
+    <td width="50%" align="center">
+      <strong>Supporting Operational Context Dashboard</strong>
+      <br><br>
+      <img src="food_manufacturing_waste_cost_priority_analysis/04_screenshots/02_dashboard_page2.png" width="100%">
+    </td>
+  </tr>
+</table>
 
 ## Data Model
 
 <p align="center">
-  <img src="04_screenshots/03_data_model.png" width="850">
+  <img src="food_manufacturing_waste_cost_priority_analysis/04_screenshots/03_data_model.png" width="550">
 </p>
 
 ### Data Structure
