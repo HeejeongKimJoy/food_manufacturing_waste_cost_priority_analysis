@@ -1,0 +1,21 @@
+"Product_ID";"Product_name";"Category";"Production_line";"Unit_cost_per_kg";"Target_yield_pct"
+10001;"Chicken Nuggets";"Frozen";"Line 1";4.08;92.5
+10002;"Beef Lasagna";"Frozen";"Line 1";7.49;97.2
+10003;"Frozen Dumplings";"Frozen";"Line 1";8.45;93.1
+10004;"Spicy Chicken Wings";"Frozen";"Line 2";9.88;90.0
+10005;"Margherita Pizza";"Frozen";"Line 2";5.78;97.7
+10006;"Teriyaki Chicken Bowl";"Chilled";"Line 1";4.05;95.3
+10007;"Beef Meatballs";"Frozen";"Line 3";6.9;95.8
+10008;"Mac and Cheese";"Chilled";"Line 2";8.46;92.6
+10009;"Frozen Burrito";"Frozen";"Line 1";8.13;93.2
+10010;"Vegetable Spring Rolls";"Frozen";"Line 3";11.45;93.1
+10011;"Creamy Pasta Bake";"Chilled";"Line 2";6.69;95.4
+10012;"Chicken Schnitzel";"Frozen";"Line 1";7.69;94.4
+10013;"BBQ Pulled Pork";"Chilled";"Line 3";7.68;94.6
+10014;"Seafood Chowder";"Chilled";"Line 2";6.85;92.9
+10015;"Butter Chicken Curry";"Chilled";"Line 1";6.69;91.3
+10016;"Thai Green Curry";"Chilled";"Line 2";11.22;92.5
+10017;"Bacon and Egg Pie";"Chilled";"Line 3";9.32;89.4
+10018;"Cheese Ravioli";"Frozen";"Line 1";11.73;92.4
+10019;"Sweet Potato Fries";"Frozen";"Line 3";11.89;90.6
+10020;"Honey Soy Chicken";"Chilled";"Line 2";9.38;91.1
